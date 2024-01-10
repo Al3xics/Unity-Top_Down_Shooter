@@ -1,6 +1,6 @@
 # Unity : Top Down Shooter
 
-If you want to test the game, please go to my itch.io page : [Al3xics](https://al3xics.itch.io/). Download the zip file, decompress, and launch : **"Shoot Your Boss.exe"**.<br>
+If you want to test the game, please go to my itch.io page : [Al3xics](https://al3xics.itch.io/). Download the zip file named **"Shoot Your Boss"**, decompress, and launch the .exe file.<br>
 If you want to quit the game, please press **Alt + F4**, as there is no button to quit the game (the **"escape"** button will only pause the game without an interface).<br>
 <br>
 
