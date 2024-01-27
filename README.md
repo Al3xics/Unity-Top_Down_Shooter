@@ -9,7 +9,7 @@ This project was made in only 2 weeks, and is about **creating different AI**.<b
 Because of a lack of time, we didn't finish all of it, so there could still be some problem.<br>
 <br>
 
-Because the project is way too large to store it on github, I will not be able to show it. So try to play the game and discover what need improvement, is well made, or badly made, ...<br>
+Because the project is way too large to store it on github, I will not be able to show it. So try to play the game and discover what need improvement, is well-made, or badly made, ...<br>
 <br>
 
 ### Have fun, and try to see the different AI we created !!
